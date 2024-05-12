@@ -1,4 +1,4 @@
-{Program napisany w ramach zajêæ na studiach matematematycznych - Wstêp do Informatyki}
+{Program napisany w ramach zajêæ na studiach matematycznych - Wstêp do Informatyki}
 
 {OPIS PROJEKTU: Napisa³em program Snake jako czêœæ æwiczeñ laboratoryjnych na przedmiocie podstaw informatyki podczas moich studiów. 
 Tworzenie tego programu umo¿liwi³o mi praktyczne zastosowanie poznanych koncepcji programowania oraz zdobycie umiejêtnoœci w obszarze algorytmów i struktur danych. 

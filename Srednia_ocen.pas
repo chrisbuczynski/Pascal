@@ -1,4 +1,4 @@
-{Program napisany w ramach zajęć na studiach matematematycznych - Wstęp do Informatyki}
+{Program napisany w ramach zajęć na studiach matematycznych - Wstęp do Informatyki}
 
 {Oblicza średnią arytmetyczną z podanych stopni 1,2,3,4,5,6.}
 
